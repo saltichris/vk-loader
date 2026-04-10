@@ -1,13 +1,12 @@
 {
   "name": "vk-railway-loader",
   "version": "1.0.0",
-  "description": "VK video matcher loader for Google Sheets",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.21.2",
-    "playwright": "^1.58.2"
+    "express": "4.21.2",
+    "playwright": "1.59.1"
   }
 }
